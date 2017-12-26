@@ -1,0 +1,23 @@
+{
+  "name": "js-tdd",
+  "version": "0.0.1",
+  "description": "course js-tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/higorcesarqn/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Higor Cesar <higorcesarqn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/higorcesarqn/js-tdd/issues"
+  },
+  "homepage": "https://github.com/higorcesarqn/js-tdd#readme"
+}
